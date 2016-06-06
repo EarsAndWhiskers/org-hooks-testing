@@ -1,0 +1,5 @@
+image: ruby:2.3
+
+rspec:
+  script:
+    - ruby -v
